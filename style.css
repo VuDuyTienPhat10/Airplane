@@ -1,0 +1,9 @@
+#bestscore{
+    border: 5px solid red;
+    box-shadow: 5px 5px 5px 2px;
+    letter-spacing: 1px;
+    padding:2px;
+    font-weight: bold;
+    color:red;
+    background-color: bisque;
+}
